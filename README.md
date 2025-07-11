@@ -103,7 +103,7 @@ Online_secondhand_shopping/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Online_secondhand_shopping.git
+   git clone https://github.com/zaahidvohra/Online_secondhand_shopping.git
    ```
 
 2. **Open the solution**
