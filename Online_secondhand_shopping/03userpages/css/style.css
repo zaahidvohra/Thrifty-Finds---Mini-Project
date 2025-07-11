@@ -1,0 +1,21 @@
+.card {
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+.card img {
+    max-height: 300px;
+    object-fit: contain;
+}
+
+.product-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    max-height: 200px; /* Set the desired height for your product images */
+   
+}
+
+
+
